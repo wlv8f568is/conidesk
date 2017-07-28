@@ -1,0 +1,474 @@
+.sidebar > div.widget_coindesk_follow_us_widget .newsletter, .sidebar > div.widget_coindesk_bottom_follow_us_widget .newsletter  {
+/*padding:15px !important;*/
+}
+.list-signup input[type="email"] {
+display: block;
+float: left;
+width: 189px;
+}
+
+.sidebar form button, .sidebar form input[type="submit"] {
+float: left;
+display:block;
+height: 40px;
+position: static;
+}
+.mc4wp-response p{
+text-align: center;
+padding: 10px 15px !important;
+color: #f1c40f;
+font-size: 17px;
+}
+
+.cd-signupbox {
+margin: 0;
+max-width: 320px;
+overflow: hidden;
+    padding-top: 25px;
+}
+
+.ip-emailcapture {
+    margin-top: 35px;
+}
+
+.ip-emailcapture h3 {
+color: black;
+margin: 0 0 2px;
+font-size: 18px;
+}
+.ip-emailcapture p {
+color: #888888;
+text-align: left;
+    margin-bottom: 15px;
+}
+.ip-emailcapture input[type=submit] {
+background: #f1c40f;
+float:left;
+display:block;
+font-weight:600;
+    color: white;
+    text-transform: none;
+    border-radius: 0px 5px 5px 0px;
+
+}
+.ip-emailcapture .cd-signupbox {
+max-width: 330px;
+}
+
+.ip-emailcapture input[type=email] {
+    width: 182px;
+    text-align: left;
+    padding-left: 15px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+/********** Construct-2017 ***********/
+
+.page-template-template-eventsconstruct2017about,
+.page-template-template-eventsconstruct2017register {
+    min-width: 1134px;
+    background: #ffffff;
+}
+
+@media (max-width:640px){
+    .page-template-template-eventsconstruct2017about,
+    .page-template-template-eventsconstruct2017register {
+        min-width: inherit;
+    }
+}
+
+.page-template-template-eventsconstruct2017about .content,
+.page-template-template-eventsconstruct2017register .content {
+    background-image: none;
+    background-color:white;
+}
+
+.page-template-template-eventsconstruct2017register .content .hero-2017,
+.page-template-template-eventsconstruct2017about .content .hero-2017{
+    background-image: url("../../images/events/consensus-2017/hero-bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+    display: table;
+    overflow: auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
+
+.page-template-template-eventsconstruct2017about .content .hero-2017 .overview-2017,
+.page-template-template-eventsconstruct2017register .content .hero-2017 .overview-2017 {
+  background: rgba(0, 0, 0, 0);
+  margin: 40px 0;
+}
+
+.page-template-template-eventsconstruct2017about .content .hero-2017 .overview-2017 img,
+.page-template-template-eventsconstruct2017register .content .hero-2017 .overview-2017 img {
+  margin: 20px 30px;
+  vertical-align: middle;
+  max-width:none;
+}
+
+.page-template-template-eventsconstruct2017about .content .hero-2017 .corner-tiles,
+.page-template-template-eventsconstruct2017register .content .hero-2017 .corner-tiles {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+}
+
+@media (max-width:640px){
+    .page-template-template-eventsconstruct2017about .content .hero-2017 .corner-tiles,
+    .page-template-template-eventsconstruct2017register .content .hero-2017 .corner-tiles {
+        visibility: hidden;
+    }
+}
+
+.page-template-template-eventsconstruct2017about .register-strip-placeholder,
+.page-template-template-eventsconstruct2017register .content .register-strip-placeholder {
+  width: 100%;
+  text-align:center;
+}
+
+.page-template-template-eventsconstruct2017about .content .register-strip-wrapper,
+.page-template-template-eventsconstruct2017register .content .register-strip-wrapper {
+  display: table;
+  transition: background 0.5s ease-out 0s;
+  width: 100%;
+}
+
+.page-template-template-eventsconstruct2017about .content .register-strip,
+.page-template-template-eventsconstruct2017register .content .register-strip {
+  background: rgba(0, 0, 0, 0.28);
+  display: table-cell;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media (max-width:640px){
+    .page-template-template-eventsconstruct2017about .content .register-strip,
+    .page-template-template-eventsconstruct2017register .content .register-strip {
+        padding-top: 20px;
+    }
+}
+
+.page-template-template-eventsconstruct2017about .content .hero-2017 .register-strip .text,
+.page-template-template-eventsconstruct2017register .content .hero-2017 .register-strip .text {
+    padding-left: 0;
+    color: #ffffff;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.page-template-template-eventsconstruct2017register .content .hero-2017 .register-strip .text {
+    padding-left: 40px;
+}
+
+@media (max-width:640px){
+    .page-template-template-eventsconstruct2017about .content .hero-2017 .register-strip .text,
+    .page-template-template-eventsconstruct2017register .content .hero-2017 .register-strip .text {
+        display: block;
+        margin: 25px 0;
+        padding-left: 0;
+    }
+}
+
+.page-template-template-eventsconstruct2017about .content section a,
+.page-template-template-eventsconstruct2017register .content section a {
+    color: #d73778;
+    font-weight: 700;
+}
+
+.page-template-template-eventsconstruct2017about .content .container,
+.page-template-template-eventsconstruct2017register .content .container {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 20px;
+    width: 1134px;
+}
+
+.page-template-template-eventsconstruct2017about .content .container section,
+.page-template-template-eventsconstruct2017register .content .container section {
+    margin: 40px 0 50px;
+    text-align: center;
+}
+
+.page-template-template-eventsconstruct2017about .content h1.main,
+.page-template-template-eventsconstruct2017about .content h2.main,
+.page-template-template-eventsconstruct2017register .content h1.main,
+.page-template-template-eventsconstruct2017register .content h2.main {
+    font-size: 35px;
+    margin-bottom: 10px;
+    color: #111111;
+    text-align: center;
+    text-transform: uppercase;
+    width: inherit;
+    min-height: inherit;
+    height: inherit;
+}
+
+.page-template-template-eventsconstruct2017about .content p {
+    font-size: 19px;
+    color: #898989;
+    line-height: 30px;
+    margin: 16px 0;
+    text-align: center;
+}
+
+.page-template-template-eventsconstruct2017register .content p {
+  color: #898989;
+  font-size: 16px;
+  line-height: 30px;
+  margin: 16px 0;
+  text-align: center;
+}
+
+.page-template-template-eventsconstruct2017about .content a.button,
+.page-template-template-eventsconstruct2017register .content a.button {
+    background-color: #d73778;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 13px 40px;
+    text-transform: uppercase;
+    font-weight:700;
+}
+
+.page-template-template-eventsconstruct2017about .content .more,
+.page-template-template-eventsconstruct2017register .content .more {
+  background-image: url("../../images/events/consensus-2016/more-bg.png");
+  background-size: cover;
+}
+
+.page-template-template-eventsconstruct2017about .content .more p,
+.page-template-template-eventsconstruct2017register .content .more p {
+  color: #ffffff;
+  margin: 8px 0;
+}
+
+.page-template-template-eventsconstruct2017about .content .social,
+.page-template-template-eventsconstruct2017register .content .social {
+  background-color: #4a4b4b;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.page-template-template-eventsconstruct2017about .content .social a,
+.page-template-template-eventsconstruct2017register .content .social a {
+  color: #d73778;
+  font-size: 25px;
+}
+
+.page-template-template-eventsconstruct2017about .content section h1,
+.page-template-template-eventsconstruct2017about .content section h2,
+.page-template-template-eventsconstruct2017about .content section h3,
+.page-template-template-eventsconstruct2017register .content section h1,
+.page-template-template-eventsconstruct2017register .content section h2,
+.page-template-template-eventsconstruct2017register .content section h3 {
+  color: #111111;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.page-template-template-eventsconstruct2017about .footer-nav,
+.page-template-template-eventsconstruct2017register .footer-nav {
+  border-top: 0 none;
+  color: #ffffff;
+  text-align: center;
+}
+
+.page-template-template-eventsconstruct2017about .footer-nav a,
+.page-template-template-eventsconstruct2017register .footer-nav a {
+  color: #ffffff;
+}
+
+.image-grid {
+  overflow: hidden;
+  margin-top:40px;
+}
+
+.image-column {
+  box-sizing: border-box;
+  float: left;
+  min-height: 420px;
+  padding: 0 15px;
+  width: 33.33%;
+}
+
+.image-column > img {
+  margin-bottom: 10px;
+  max-width: 100%;
+  width: 100%;
+}
+
+
+.sidebar>div.widget_coindesk_bottom_follow_us_widget{
+	background:#1d726a
+	}
+
+.sidebar>div.widget_coindesk_bottom_follow_us_widget>h3 {
+    font-weight: 400;
+    font-size: 17px;
+    padding: 10px 15px 8px;
+    margin: 0;
+    color: #fff;
+    border-bottom: 1px solid #f2f2f2;
+    background-color: #0f5852!important
+}
+
+.sidebar>div.widget_coindesk_bottom_follow_us_widget .newsletter {
+    padding: 15px 15px 5px
+}
+
+.sidebar>div.widget_coindesk_bottom_follow_us_widget .newsletter p {
+    color: #fff;
+    margin-bottom: 15px
+}
+
+.sidebar>div.widget_coindesk_follow_us_widget .newsletter .output,
+.sidebar>div.widget_coindesk_bottom_follow_us_widget .newsletter .output a {
+    color: #f1c40f
+}
+
+.page-template-template-eventsconstruct2017about h2 {
+	color: #d73778 !important;
+	}
+
+
+@media (max-width:640px){
+.page-template-template-eventsconstruct2017about .content .container,
+.page-template-template-eventsconstruct2017register .content .container {
+  width: auto;
+}
+.image-column {
+	width:100%;
+    }
+}
+
+.related-stories-ad-unit{
+    padding: 15px 0;
+}
+
+.dianomi-ad-unit-widget {
+	background-color: white;
+	border: solid 1px lightgray;
+}
+
+/* BEGIN IOS STYLE SWITCH FOR PRICE PAGE */
+
+#toggles{
+    width:57px;
+    text-align:center;
+}
+.ios-toggle,.ios-toggle:active{
+    position:absolute;
+    top:-5000px;
+    height:0;
+    width:0;
+    opacity:0;
+    border:none;
+    outline:none;
+}
+.checkbox-label{
+    top: -7px;
+    display:block;
+    position:relative;
+    padding:inherit;
+    margin-bottom:20px;
+    font-size:12pt;
+    line-height:3px;
+    width:100%;
+    height:21px;
+    /*border-radius*/
+    -webkit-border-radius:18px;
+    -moz-border-radius:18px;
+    border-radius:18px;
+    background:#888888;
+    cursor:pointer;
+}
+.checkbox-label:before{
+    content:'';
+    display:block;
+    position:absolute;
+    z-index:1;
+    line-height:34px;
+    text-indent:40px;
+    height:21px;
+    width:21px;
+    /*border-radius*/
+    -webkit-border-radius:100%;
+    -moz-border-radius:100%;
+    border-radius:100%;
+    top:0px;
+    left:0px;
+    right:auto;
+    background:white;
+    /*box-shadow*/
+    -webkit-box-shadow:0 3px 3px rgba(0,0,0,.2),0 0 0 2px #888888;
+    -moz-box-shadow:0 3px 3px rgba(0,0,0,.2),0 0 0 2px #888888;
+    box-shadow:0 3px 3px rgba(0,0,0,.2),0 0 0 2px #888888;
+}
+.checkbox-label:after{
+    content:attr(data-off);
+    display:block;
+    position:absolute;
+    z-index:0;
+    top:0;
+    left:-325px;
+    padding:10px;
+    height:100%;
+    width:300px;
+    text-align:right;
+    color:#888888;
+    white-space:nowrap;
+}
+.ios-toggle:checked + .checkbox-label{
+    /*box-shadow*/
+    -webkit-box-shadow:inset 0 0 0 20px rgba(19,191,17,1),0 0 0 2px rgba(19,191,17,1);
+    -moz-box-shadow:inset 0 0 0 20px rgba(19,191,17,1),0 0 0 2px rgba(19,191,17,1);
+    box-shadow:inset 0 0 0 20px rgba(19,191,17,1),0 0 0 2px rgba(19,191,17,1);
+}
+.ios-toggle:checked + .checkbox-label:before{
+    left:calc(100% - 21px);
+    /*box-shadow*/
+    -webkit-box-shadow:0 0 0 2px transparent,0 3px 3px rgba(0,0,0,.3);
+    -moz-box-shadow:0 0 0 2px transparent,0 3px 3px rgba(0,0,0,.3);
+    box-shadow:0 0 0 2px transparent,0 3px 3px rgba(0,0,0,.3);
+}
+.ios-toggle:checked + .checkbox-label:after{
+    content:attr(data-on);
+    left:60px;
+    width:36px;
+}
+/* BLUE CHECKBOX */
+
+#checkbox3{
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+#checkbox3 + .checkbox-label{
+    /*box-shadow*/
+    -webkit-box-shadow:inset 0 0 0 0px #888888,0 0 0 2px #888888;
+    -moz-box-shadow:inset 0 0 0 0px #888888,0 0 0 2px #888888;
+    box-shadow:inset 0 0 0 0px #888888,0 0 0 2px #888888;
+}
+#checkbox3:checked + .checkbox-label{
+    /*box-shadow*/
+    -webkit-box-shadow:inset 0 0 0 20px #888888,0 0 0 2px #888888;
+    -moz-box-shadow:inset 0 0 0 20px #888888,0 0 0 2px #888888;
+    box-shadow:inset 0 0 0 20px #888888,0 0 0 2px #888888;
+}
+#checkbox3:checked + .checkbox-label:after{
+    color:#888888;
+}
+
+/* END IOS STYLE SWITCH  */
+
+
+.medianet-unit{
+    margin: 25px 0;
+}
